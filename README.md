@@ -9,3 +9,6 @@ Improvements already accomplished:
     - renamed quite a few variables to use some of that sweet insight gained from Uncle Bob Martin's Clean Code
 
 A handy IoT device that monitors the status of a restroom door ("closed"/"open"), along with the duration of its being closed, and displays the data. The graphic user interface is aesthetically pleasing, and includes an interactive line graph and table that updates, real-time, newly recorded bathroom sessions. Built with React, Node, Johnny-Five, Sockets.io, and Firebase real-time database. 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyneticist&theme=onedark)]
